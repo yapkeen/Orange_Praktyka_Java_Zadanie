@@ -14,9 +14,7 @@ public class MeetingPlanner {
     public float getEstimatedTimeValue(String estimatedTime){
         int temp = Integer.parseInt(estimatedTime.substring(0, estimatedTime.length()-3));
         int temp2= Integer.parseInt(estimatedTime.substring(estimatedTime.length()-2, estimatedTime.length()));
-        System.out.println(temp + " " + temp2);
         float timeValue=temp + ((float)temp2/60);
-        System.out.println(timeValue);
         return timeValue;
     }
 }

@@ -1,5 +1,6 @@
 # Orange_Praktyka_Java_Zadanie
 Zadanie wykonane w ramach procesu rekrutacyjnego Praktyka Orange #Java #Spring#Unit
+Piotr Wojda japkin15@gmail.com
 
 Testowanie aplikacji:
 
